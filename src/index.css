@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+*{
+    font-family:poppins;
+}
+
+input{
+    cursor: pointer;
+}
